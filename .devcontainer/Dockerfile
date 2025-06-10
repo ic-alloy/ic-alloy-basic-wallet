@@ -1,4 +1,4 @@
-FROM ghcr.io/dfinity/icp-dev-env:13
+FROM ghcr.io/dfinity/icp-dev-env:20
 
 RUN apt -yqq install --no-install-recommends wget
 
