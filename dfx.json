@@ -20,7 +20,7 @@
       "declarations": {
         "output": "src/evm_rpc/declarations"
       },
-      "init_arg": "(record { nodesInSubnet = 28 })",
+      "init_arg": "(record { })",
       "remote": {
         "candid": "packages/evm_rpc/declarations/evm_rpc.did",
         "id": {
