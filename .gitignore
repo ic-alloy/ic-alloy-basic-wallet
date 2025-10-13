@@ -26,5 +26,4 @@ dist-ssr
 .dfx
 .env
 *.tsbuildinfo
-canister_ids.json
 target
